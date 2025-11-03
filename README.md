@@ -9,3 +9,7 @@
 3. ENDPoint untuk PUT
 <img width="1920" height="1080" alt="Screenshot 2025-11-03 112002" src="https://github.com/user-attachments/assets/36c7773e-b5cd-428d-8225-84d3a15adbb8" />
 
+4. ENDPoint untuk DELETE
+<img width="1920" height="1080" alt="Screenshot 2025-11-03 112021" src="https://github.com/user-attachments/assets/ea0a68bb-4ad8-4c73-8db4-064e828e95e5" />
+
+
