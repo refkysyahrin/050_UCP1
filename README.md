@@ -5,3 +5,7 @@
 
 2. ENDPoint untuk POST
 <img width="1920" height="1080" alt="Screenshot 2025-11-03 111859" src="https://github.com/user-attachments/assets/c38218dc-a514-4fed-b5d1-7049dac70001" />
+
+3. ENDPoint untuk PUT
+<img width="1920" height="1080" alt="Screenshot 2025-11-03 112002" src="https://github.com/user-attachments/assets/36c7773e-b5cd-428d-8225-84d3a15adbb8" />
+
